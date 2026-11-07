@@ -35,3 +35,6 @@ Lee LEEME-PARA-TU-CLAUDE.md y docs/ARQUITECTURA.md. Después haz ingeniería inv
 3) un plan de integración por etapas, empezando por la CAPI y el panel, con una verificación por etapa.
 No ejecutes nada contra Meta ni contra ningún CRM real: solo lee y planifica.
 ```
+
+## Licencia
+MIT (ver `LICENSE`). Puedes usarlo, modificarlo y distribuirlo, incluso con fines comerciales.
